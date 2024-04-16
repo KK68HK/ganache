@@ -51,7 +51,7 @@
     "@ganache/ethereum-address": "0.8.0",
     "@ganache/ethereum-utils": "0.8.0",
     "@ganache/options": "0.8.0",
-    "@ganache/utils": "0.8.0",
+    "@ganache/utils": "0.9.2",
     "bip39": "3.0.4",
     "seedrandom": "3.0.5"
   },
