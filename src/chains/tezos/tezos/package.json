@@ -44,7 +44,7 @@
   "dependencies": {
     "@ganache/options": "0.8.0",
     "@ganache/utils": "0.8.0",
-    "emittery": "0.10.0"
+    "emittery": "0.13.1"
   },
   "devDependencies": {
     "@trufflesuite/uws-js-unofficial": "20.10.0-unofficial.2",
